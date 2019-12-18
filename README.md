@@ -1,4 +1,8 @@
+Try running model from  tensorflow-101/python/vgg-face.ipynb 
+
+
 # TensorFlow 101: Introduction to Deep Learning
+
 
 I have worked all my life in Machine Learning, and **I've never seen one algorithm knock over its benchmarks like Deep Learning** - Andrew Ng
 
