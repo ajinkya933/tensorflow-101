@@ -1,5 +1,8 @@
 Try running model from  tensorflow-101/python/vgg-face.ipynb 
+# For face server :
+go to src/  and run 
 
+```python face_flask.py```
 
 # TensorFlow 101: Introduction to Deep Learning
 
